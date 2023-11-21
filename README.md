@@ -1,2 +1,2 @@
-# provider-template
-A starter template for integrating other LLM providers.
+# provider-claude
+Anthropic Claude LLM provider for discommand2
